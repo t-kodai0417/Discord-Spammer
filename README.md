@@ -1,7 +1,7 @@
 # DiscordSpammer
 ### 今更感ある中品質のSpammer
-- [x] ソース公開済み
-- [x] Pythonで作成
+- ✅ ソース公開済み
+- ✅ Pythonで作成
 
 
 ### なんとなく作ったSpammerです。
