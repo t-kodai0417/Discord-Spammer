@@ -2,7 +2,8 @@
 ### 今更感ある中品質のSpammer
 - [x] ソース公開済み
 - [x] Pythonで作成
-<br>
+
+
 ### なんとなく作ったSpammerです。
 - Joiner→hCaptcha bypassを作ってないため、古い垢じゃないと使えない。
 - DMSpam→これはフレンドになっていてある程度dmで話してたらcaptchaをbypassできる。
